@@ -1,0 +1,35 @@
+.image{
+	height: 200px;
+	border-radius: 100px;
+	padding: 20px;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+p{
+	font-family: BigNoodleTitling;
+	font-size: 30px;
+	text-align: center;
+}
+h1{
+	font-family: LEMON MILK;
+}
+.description{
+	font-family: arial narrow;
+	font-size: 20px;
+	text-align: center;
+}
+body{
+ background: url(https://t3.ftcdn.net/jpg/05/26/30/42/360_F_526304237_fyJTnrJ8ft1fEmoB3mkgQZqgPX3FuMQw.jpg) no-repeat center center fixed; 
+background-size: cover;
+background-size: cover;
+background-size: cover;
+  background-size: cover;
+}
+table{
+	margin-right: auto;
+	margin-left: auto;
+	border-style: outset;
+	border-color: #AF770E ;
+	}
